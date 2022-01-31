@@ -1,9 +1,15 @@
-# restassured
-Basic rest assured
-
-Application used is fake rest Api server
-refrence 1 : remote site hosted by - https://reqres.in/
-refereence 2 : local jsonserver setup using - https://github.com/typicode/json-server
+# API Automation framework [WIP]
 
 
-Tutorial reference - https://automationstepbystep.com/
+
+** To do **
+
+Implement Simple GET POST Operation
+
+Generate HTML Report
+
+Parallel Execution of Scenarios
+
+JSON Schema Validation
+
+Use Logger
