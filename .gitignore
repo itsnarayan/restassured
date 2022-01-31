@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/target/*
+
+# Compiled class file
+*.class
+.git
+.idea
+.DS_Store
+
+
+# Log file
+*.log
+
+# Report files
+/Reports/*
+
+# IntelliJ
+/.idea/*
+*.iml
+
+# Config Values
+config.properties
+
